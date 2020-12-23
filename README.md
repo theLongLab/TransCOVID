@@ -86,8 +86,6 @@ The selected BEAST2 parameters were set-up using Beauti. The analysis was conduc
 
 Best results were observed with MCMC chain lengths of 1 billion. This was conducted by combining 10 separate runs of chain length 10<sup>7</sup>. The log and trees files were later combined using LogCombiner.
 
->The file **log_sample.log** contains a sample combined Log file.
-
 The validity of the MCMC run was evaluated using Tracer by reference to the Estimated Sample Size (ESS) of each inferred parameter. It was ensured that the ESS was greater than 200 for each parameter.
 
 Subsequently the phylogenetic tree was extracted through TreeAnnotator using common ancestor node heights and a target tree type of maximum clade credibility and converted to a **newick** format using FigTree.
