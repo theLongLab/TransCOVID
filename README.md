@@ -104,7 +104,7 @@ Transmission networks were visualized using Gephi. Before loading the files the 
 
 > The file **metadata.csv** contains the metadata file to be loaded into Gephi.
 
-The image below shows Canada's transmission network for COVID19 produced by our pipleine. 
+The image below shows Canada's transmission network for COVID19 as was produced by our pipleine. 
 
 ![alt text](https://github.com/theLongLab/TransCOVID/blob/main/Gephi_output.jpg)
 
