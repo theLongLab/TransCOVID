@@ -59,8 +59,8 @@ These scripts are highly commented and can be easily modified to extract what yo
       - ape
       - lubridate
 
-  - FigTree
-  - Gephi
+  - **FigTree**
+  - **Gephi**
 
 [Back To The Top](#table-of-contents)
 
