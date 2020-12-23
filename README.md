@@ -94,7 +94,7 @@ Subsequently the phylogenetic tree was extracted through TreeAnnotator using com
 
 The resultant phylogenetic tree will then be loaded into TransPhylo and the transmission tree will be extracted using the R code titled **TransmissionX.R**.
 
->The file **transmissionX_sample.csv** is a sample obtained from the above R code. 
+>The file **transmissionX_sample.tsv** is a sample obtained from the above R code. 
 
 #### 6.	Visualization of transmission networks
 
