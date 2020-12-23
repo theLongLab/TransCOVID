@@ -152,6 +152,6 @@ See also the list of contributors (reference publication to be added) who partic
 [Back To The Top](#table-of-contents)
 
 ## Citations
-_If you find these scripts helpful in your own transmission analyses, please cite (reference publication to be added)._
+_If you found this protocol helpful in your own transmission analyses, please cite (reference publication to be added)._
 
 [Back To The Top](#table-of-contents)
