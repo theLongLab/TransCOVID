@@ -72,8 +72,6 @@ These scripts are highly commented and can be easily modified to extract what yo
 
 FASTA sequences were obtained through [GISAID](https://www.gisaid.org/). Data was filtered based on Host, Sequence coverage, Sequence completeness and Date of sample collection. 
 
-The provided Java code titled **"DateX.java"** was used to extract the sequences which had an exact record of the date (day, month and year).
-
 #### 2. Multiple Sequence Alignment (MSA)
 
 The filtered FASTA sequences were then subjected to MSA which was performed using [Multiple Alignment using Fast Fourier Transform](https://mafft.cbrc.jp/alignment/server/) (MAFFT).
