@@ -20,7 +20,9 @@
 
 The following pipeline will provide health care professionals with a novel approach to infer transmission networks, complete with the ability to predict the presence of unsampled sources of infection. 
 
-The pipeline is composed of five steps.
+The pipeline is composed of five steps as shown in the flowchart below. 
+
+![alt text](https://github.com/theLongLab/TransCOVID/blob/main/Procedure_overview.png)
 
 #### Protocol outline
 
@@ -105,6 +107,10 @@ Transmission networks were visualized using Gephi. Before loading the files the 
 >The file **source_target.csv** contains the main transmission network to be loaded into Gephi.
 
 > The file **metadata.csv** contains the metadata file to be loaded into Gephi.
+
+The image below shows Canada's transmission network for COVID19 produced by our pipleine. 
+
+![alt text](https://github.com/theLongLab/TransCOVID/blob/main/Gephi_output.jpg)
 
 [Back To The Top](#table-of-contents)
 
