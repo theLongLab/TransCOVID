@@ -147,7 +147,7 @@ SOFTWARE.
 
 ## Author Info
 
-See also the list of contributors (reference publication to be added) who participated in this project. Didelot et al.: Developed and tested the TransPhylo program.
+See the list of contributors (reference publication to be added) who participated in this project. Didelot et al.: Developed and tested the TransPhylo program.
 
 [Back To The Top](#table-of-contents)
 
