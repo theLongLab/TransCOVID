@@ -1,4 +1,4 @@
-Patient No.	Patient ID	Infection Date (Pred.)	Sampling Date	No. or ID of Infector
+Patient No.	Patient ID	Infection Date (Pred.)	Sampling Date	Source
 1	hCoV-19/Canada/AB-Z0001/2020|EPI_ISL_504185|2020-05-13	2020-04-26	2020-05-13	965
 2	hCoV-19/Canada/AB-Z0002/2020|EPI_ISL_515466|2020-07-15	2020-05-18	2020-07-15	hCoV-19/Canada/AB-Z0001/2020|EPI_ISL_504185|2020-05-13
 3	hCoV-19/Canada/ON-OICR-SLB2793/2020|EPI_ISL_538327|2020-03-27	2020-03-06	2020-03-27	1230
