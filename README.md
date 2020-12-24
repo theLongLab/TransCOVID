@@ -16,7 +16,7 @@
 
 ## Description
 
-### A novel computational approach to the deconstruction of COVID19 infection dynamics through the inference of unsampled sources of infection.
+### A novel computational approach to the reconstructing of SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection.
 
 The following pipeline will provide health care professionals with a novel approach to infer transmission networks, complete with the ability to predict the presence of unsampled sources of infection. 
 
