@@ -146,7 +146,7 @@ SOFTWARE.
 See the list of contributors: 
 
 A novel computational approach to reconstruct SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection
-Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long
+**Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long**
 medRxiv 2021.01.04.21249233; doi: https://doi.org/10.1101/2021.01.04.21249233 who participated in this project. 
 
 Didelot et al.: Developed and tested the TransPhylo program.
