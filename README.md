@@ -143,11 +143,21 @@ SOFTWARE.
 
 ## Author Info
 
-See the list of contributors (reference publication to be added) who participated in this project. Didelot et al.: Developed and tested the TransPhylo program.
+See the list of contributors: 
+
+A novel computational approach to reconstruct SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection
+Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long
+medRxiv 2021.01.04.21249233; doi: https://doi.org/10.1101/2021.01.04.21249233 who participated in this project. 
+
+Didelot et al.: Developed and tested the TransPhylo program.
 
 [Back To The Top](#table-of-contents)
 
 ## Citations
-_If you found this protocol helpful in your own transmission analyses, please cite (reference publication to be added)._
+_If you found this protocol helpful in your own transmission analyses, please cite._
+
+A novel computational approach to reconstruct SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection
+Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long
+medRxiv 2021.01.04.21249233; doi: https://doi.org/10.1101/2021.01.04.21249233
 
 [Back To The Top](#table-of-contents)
