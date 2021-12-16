@@ -145,9 +145,9 @@ SOFTWARE.
 
 See the list of contributors: 
 
-A novel computational approach to reconstruct SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection
+Reconstructing SARS-CoV-2 infection dynamics through the phylogenetic inference of unsampled sources of infection.
 **Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long**
-medRxiv 2021.01.04.21249233; https://www.medrxiv.org/content/10.1101/2021.01.04.21249233v1 who participated in this project. 
+PLoS ONE 16(12): e0261422.; https://doi.org/10.1371/journal.pone.0261422 who participated in this project. 
 
 Didelot et al.: Developed and tested the TransPhylo program.
 
@@ -156,8 +156,6 @@ Didelot et al.: Developed and tested the TransPhylo program.
 ## Citations
 _If you found this protocol helpful in your own transmission analyses, please cite._
 
-A novel computational approach to reconstruct SARS-CoV-2 infection dynamics through the inference of unsampled sources of infection
-Deshan Perera, Ben Perks, Michael Potemkin, Paul Gordon, John Gill, Guido van Marle, Quan Long
-medRxiv 2021.01.04.21249233; https://www.medrxiv.org/content/10.1101/2021.01.04.21249233v1
+Perera D, Perks B, Potemkin M, Liu A, Gordon PMK, Gill MJ, Long Q, van Marle G. (2021) Reconstructing SARS-CoV-2 infection dynamics through the phylogenetic inference of unsampled sources of infection. PLoS ONE 16(12): e0261422. https://doi.org/10.1371/journal.pone.0261422
 
 [Back To The Top](#table-of-contents)
