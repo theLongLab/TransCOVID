@@ -146,7 +146,7 @@ SOFTWARE.
 See the list of contributors: 
 
 Reconstructing SARS-CoV-2 infection dynamics through the phylogenetic inference of unsampled sources of infection.
-**Deshan Perera, Ben Perks, Michael Potemkin, Andy Liu, Paul Gordon, John Gill, Guido van Marle, Quan Long**
+**Deshan Perera, Ben Perks, Michael Potemkin, Andy Liu, Paul Gordon, John Gill, Guido van Marle, Quan Long**;
 PLoS ONE 16(12): e0261422.; https://doi.org/10.1371/journal.pone.0261422 who participated in this project. 
 
 Didelot et al.: Developed and tested the TransPhylo program.
